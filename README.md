@@ -3,7 +3,7 @@
 ## FASHION APPAREL CLASSIFICATION USING DL CNN
   - BY SRIKAR SEETHIRAJU
 
-## Aim : Predicting the output class of a 28x28 pixel image in the form of CSV file.¶
+## Aim : Predicting the output class of a 28x28 pixel image in the form of CSV file.
 
 ## Method of approach used : Convolutional Neural Network
   - STEP #1: IMPORTING DATA
