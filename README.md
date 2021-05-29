@@ -12,4 +12,4 @@
   - STEP #4: MODEL TRAINING
   - STEP #5: EVALUATING THE MODEL
 
-## DataSet couldnot be uplaoded as the size exceeds 25MB limit of Github. Dataset for this project has been taken from Super Data Science Team.
+#### DataSet couldnot be uplaoded as the size exceeds 25MB limit of Github. Dataset for this project has been taken from Super Data Science Team.
