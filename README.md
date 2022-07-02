@@ -1,6 +1,6 @@
 # Fashion-Apparel-Prediction-Project-CNN
 
-## FASHION APPAREL CLASSIFICATION USING DL CNN
+## FASHION APPAREL CLASSIFICATION USING DL CNN. ACCURACY - 88%
   - BY SRIKAR SEETHIRAJU
 
 ## Aim : Predicting the output class of a 28x28 pixel image in the form of CSV file.
